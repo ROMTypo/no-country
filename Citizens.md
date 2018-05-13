@@ -1,5 +1,6 @@
 * Zevo (ruler)
-* Unique
-* Halo
-* ROM
-* Israbelle
+* Unique (requested)
+* Halo (drafted as tank driver)
+* ROM (requested)
+* Israbelle (requested)
+* Kaydax (requested)
